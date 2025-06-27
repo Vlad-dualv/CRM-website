@@ -5,6 +5,7 @@ import SearchInput from '../components/search-input';
 import AddCompanyButton from '../components/add-company-button';
 import CompanyTable from '../components/company-table';
 import CompanyRow from '../components/company-row';
+import { Status } from '../components/status-label';
 
 export default function Page() {
   return (
